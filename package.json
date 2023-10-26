@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iris2121/TTI107_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iris2121/TTI107_JavaScript/issues"
+  },
+  "homepage": "https://github.com/iris2121/TTI107_JavaScript#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1"
+  }
+}
